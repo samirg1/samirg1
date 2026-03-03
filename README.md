@@ -16,6 +16,12 @@
 
 ## Projects
 
+- **[MyIndoorOutdoor](https://www.indooroutdoor.com.au/)** (closed source) - Freelance B2C app for Indoor Outdoor Imports
+![React Native](https://img.shields.io/badge/--20232A?logo=react)
+![Expo](https://img.shields.io/badge/--000020?logo=expo)
+![TypeScript](https://img.shields.io/badge/--3178C6?logo=typescript&logoColor=white)
+![Firebase](https://img.shields.io/badge/--DD2C00?logo=firebase&logoColor=white)
+
 - **[Platform Prop Badges](https://github.com/samirg1/platform-prop-badges)** - React-Native VS Code extension for adding badges to platform specific props
 ![TypeScript](https://img.shields.io/badge/--3178C6?logo=typescript&logoColor=white)
 
