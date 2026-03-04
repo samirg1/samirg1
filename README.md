@@ -9,6 +9,8 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
 ![Stripe](https://img.shields.io/badge/-Stripe-635BFF?logo=stripe&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-316192?logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
 
 > Builder of products, apps, and tools — mostly TypeScript & React / React Native 🚀
 
@@ -30,10 +32,12 @@
 
 - **[chat-summary](https://github.com/samirg1/chat-summary)** - MacOS group chat summary for internet games (Wordle, Connections, etc)
 ![Python](https://img.shields.io/badge/--316192?logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/--003B57?logo=sqlite&logoColor=white)
 
 #### Inactive
 - **[AutoSMX](https://github.com/samirg1/AutoSMX)** - GUI tool for improving efficiency and performance by up to 50%
 ![Python](https://img.shields.io/badge/--316192?logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/--003B57?logo=sqlite&logoColor=white)
 
 - **[PayForward](https://github.com/samirg1/pay-forward)** – Full stack app connecting businesses with customers
 ![React Native](https://img.shields.io/badge/--20232A?logo=react)
@@ -42,16 +46,21 @@
 ![Node.js](https://img.shields.io/badge/--339933?logo=node.js&logoColor=white)
 ![Stripe](https://img.shields.io/badge/--635BFF?logo=stripe&logoColor=white)
 ![Firebase](https://img.shields.io/badge/--DD2C00?logo=firebase&logoColor=white)
+![Algolia](https://img.shields.io/badge/--003DFF?logo=algolia&logoColor=white)
+
 
 
 - **[PayForward (web)](https://payforward.com.au)** – Web landing page for PayForward
 ![React](https://img.shields.io/badge/--20232A?logo=react)
 ![TypeScript](https://img.shields.io/badge/--3178C6?logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/--06B6D4?logo=tailwindcss&logoColor=white)
+![Vercel](https://img.shields.io/badge/--000000?logo=vercel&logoColor=white)
 
 - **[MD Fitness](https://github.com/samirg1/md-fitness)** – E-commerce website for MD-Fitness
 ![React](https://img.shields.io/badge/--20232A?logo=react)
 ![TypeScript](https://img.shields.io/badge/--3178C6?logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/--47A248?logo=mongodb&logoColor=white)
+![Render](https://img.shields.io/badge/--000000?logo=render&logoColor=white)
 
 - **[All-NBA](https://github.com/samirg1/All-NBA)** – iOS app for NBA scores, standings & stats
 ![Swift](https://img.shields.io/badge/--F05138?logo=swift&logoColor=white)
