@@ -11,12 +11,18 @@
 ![Python](https://img.shields.io/badge/-Python-316192?logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
+![Convex](https://img.shields.io/badge/-Convex-EE342F?logo=convex&logoColor=white)
 
 > Builder of products, apps, and tools — mostly TypeScript & React / React Native 🚀
 
 ---
 
 ## Projects
+
+- **[Reveal Studio](https://revealstudio.app)** - Customise & publish your own website to reveal a gift, surprise, news, and more!
+![TypeScript](https://img.shields.io/badge/--3178C6?logo=typescript&logoColor=white)
+![Convex](https://img.shields.io/badge/--EE342F?logo=convex&logoColor=white)
+![Vercel](https://img.shields.io/badge/--000000?logo=vercel&logoColor=white)
 
 - **[MyIndoorOutdoor](https://www.indooroutdoor.com.au/)** (closed source) - Freelance B2C app for Indoor Outdoor Imports
 ![React Native](https://img.shields.io/badge/--20232A?logo=react)
